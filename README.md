@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m a web designer from Kenya
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Web Design
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me kiproptimo21@gmail.com
 
 <!---
